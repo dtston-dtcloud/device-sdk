@@ -11,10 +11,10 @@
 ##测试APP 
 用连接好的硬件和 [测试APP](assist.dtston.com/sdk/android/sdk_demo_1.3.2.apk )进行联调。
 > 1.接好硬件，触发硬件MCU发送`WiFi配对`串口数据
->  (https://github.com/dtston-dtcloud/device-sdk/blob/master/assets/imgs//1498554513567.png)
+>  ![Alt text](./1498554513567.png)
 >  
 > 2.打开测试APP，注册过深智云平台的用户请输入`账号`和`密码`后点击`登录`。未注册用户点击`注册新用户`，按流程注册即可。
->  (https://github.com/dtston-dtcloud/device-sdk/blob/master/assets/imgs//1498555135660.png)
+>  ![Alt text](/assets/imgs/1498555135660.png)
 
 
 
@@ -22,22 +22,22 @@
 > 3.登入后点击`添加`。
   `本地配网添加`：把未连接路由器的WiFi设备配对到路由器上。
   `本地搜索添加`：可直接搜索到连接到同一路由器下的WiFi设备，无需再次操作配对流程。（本操作适用于已连接上路由器的WiFi设备）
->    (https://github.com/dtston-dtcloud/device-sdk/blob/master/assets/imgs//1498555188519.png)
+>    ![Alt text](/assets/imgs/1498555188519.png)
 
 
 
 > 4.点击本地配网添加后，选择正确的`WiFi模块`，输入正确的`路由器密码`、`产品类型`、`产品名称`。**一定要等WiFi设备进入了配对状态后**，再点击`下一步`。
->    (https://github.com/dtston-dtcloud/device-sdk/blob/master/assets/imgs//1498555232140.png)
+>    ![Alt text](/assets/imgs/1498555232140.png)
 
 
 
 
 
 >5.配对成功后，设备列表界面显示了一个智能插座。
->   (https://github.com/dtston-dtcloud/device-sdk/blob/master/assets/imgs//1498555270798.png)
+>   ![Alt text](/assets/imgs/1498555270798.png)
 
 >6.点击`智能插座`后，进入到设备控制界面。输入正确的`指令功能`和`指令内容`，点击`发送`，硬件即可收到指令数据。APP收到的数据会显示在APP下方。
->   (https://github.com/dtston-dtcloud/device-sdk/blob/master/assets/imgs//1498555297335.png)
+>   ![Alt text](/assets/imgs/1498555297335.png)
 
 
 
