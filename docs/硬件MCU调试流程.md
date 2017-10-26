@@ -14,7 +14,7 @@
 用连接好的硬件和 [测试APP](assist.dtston.com/sdk/android/sdk_demo_1.3.2.apk )进行联调。
 
 1.接好硬件，触发硬件MCU发送`WiFi配对`串口数据
-	![Alt text](./1498554513567.png)
+	![Alt text](/assets/imgs/1498554513567.png)
 	
 2.打开测试APP，注册过深智云平台的用户请输入`账号`和`密码`后点击`登录`。未注册用户点击`注册新用户`，按流程注册即可。
 	![Alt text](/assets/imgs/1498555135660.png)
